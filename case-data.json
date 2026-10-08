@@ -1,0 +1,112 @@
+{
+  "slug": "sonic-elasticity",
+  "title": {
+    "zh": "声学弹性",
+    "en": "Sonic Elasticity"
+  },
+  "subtitle": {
+    "zh": "声音与空间变化共同构建的知觉环境",
+    "en": "A perceptual environment constructed through sound and spatial transformation"
+  },
+  "description": {
+    "zh": "以弹性立方体、四声道声场与受控的同步和偏离，探索空间知觉如何被建立与重构。",
+    "en": "An elastic cube and four-channel soundscape explore how spatial perception is constructed and reshaped through controlled synchronisation and deviation."
+  },
+  "categories": [
+    "installation"
+  ],
+  "status": "published",
+  "kind": {
+    "zh": "Bartlett School 设计项目 · 协作装置",
+    "en": "Bartlett School design project · Collaborative installation"
+  },
+  "year": "2025–26",
+  "cover": "sonic-cover",
+  "background": "sonic-cover",
+  "featured": true,
+  "coverAlt": {
+    "zh": "蓝紫色暗室中的双层弹性立方体，四个音箱围绕着中心参与者。",
+    "en": "A nested elastic cube in a blue-violet dark room, with four speakers surrounding a participant at its centre."
+  },
+  "role": {
+    "zh": "装置设计与制作（协作项目）",
+    "en": "Installation design and fabrication within a collaborative project"
+  },
+  "stage": {
+    "zh": "研究、模型迭代、实体装置与视听编程",
+    "en": "Research, model iterations, physical installation, and audiovisual programming"
+  },
+  "deliverables": {
+    "zh": "知觉实验、四轮迭代、结构模型、Max/MSP 与 Arduino 联动、装置影像",
+    "en": "Perceptual experiments, four iterations, structural models, Max/MSP and Arduino integration, and installation film"
+  },
+  "overview": {
+    "zh": "声学弹性是一件交互装置，探索如何通过受控的感官条件构建并重塑空间知觉。项目借鉴超立方体的几何逻辑，以时间作为感知变化的维度：弹性立方体缓慢伸缩，四声道声场随之变化，参与者对距离、尺度与空间边界的判断也在同步与偏离之间不断调整。",
+    "en": "Sonic Elasticity is an interactive installation exploring how controlled sensory conditions construct and reshape spatial perception. Drawing on the geometric logic of the tesseract, it uses time as a dimension of perceptual change. An elastic cube expands and contracts alongside a four-channel soundscape, shifting judgements of distance, scale, and boundaries through synchronisation and deviation."
+  },
+  "sections": [
+    {
+      "id": "prediction",
+      "title": {
+        "zh": "从预测到知觉",
+        "en": "Prediction and perception"
+      }
+    },
+    {
+      "id": "research",
+      "title": {
+        "zh": "研究与认知框架",
+        "en": "Research and cognitive framework"
+      }
+    },
+    {
+      "id": "experiments",
+      "title": {
+        "zh": "感知实验与实体模型",
+        "en": "Perceptual experiments and physical model"
+      }
+    },
+    {
+      "id": "iterations",
+      "title": {
+        "zh": "四轮设计迭代",
+        "en": "Four design iterations"
+      }
+    },
+    {
+      "id": "interaction",
+      "title": {
+        "zh": "空间与声音的交互逻辑",
+        "en": "Interaction between space and sound"
+      }
+    },
+    {
+      "id": "construction",
+      "title": {
+        "zh": "结构设计与制作",
+        "en": "Structure and fabrication"
+      }
+    },
+    {
+      "id": "mechanism",
+      "title": {
+        "zh": "伸缩系统与控制",
+        "en": "Transformation system and control"
+      }
+    },
+    {
+      "id": "sound-programming",
+      "title": {
+        "zh": "声音设计与视听联动",
+        "en": "Sound design and audiovisual integration"
+      }
+    },
+    {
+      "id": "experience",
+      "title": {
+        "zh": "装置体验与影像",
+        "en": "Installation experience and film"
+      }
+    }
+  ]
+}
