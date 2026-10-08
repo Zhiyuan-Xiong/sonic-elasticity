@@ -55,6 +55,8 @@ flowchart LR
 
 **过程证据：** [认知框架](media/sonic/cognitive-framework-large.webp) · [迭代总览](media/sonic/iteration-overview-large.webp) · [结构制作](media/sonic/construction-board-large.webp) · [声音分析](media/sonic/audio-analysis-large.webp)
 
+**指令控制：** 先用完整任务说明组织案例结构与视觉基准，再以精准短指令调整实体伸缩、声音空间与职责边界，通过实际画面与原作对照验收。
+
 [阅读完整的项目工作流](工作流.md) · [我的 AI 设计方法](https://github.com/Zhiyuan-Xiong/xiongzhiyuan-portfolio/blob/main/docs/AI设计工作流.md)
 
 ## 仓库内容
